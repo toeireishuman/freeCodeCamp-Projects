@@ -1,8 +1,30 @@
 # Build a Tribute Page
 
+This is my submission for Responsive Web Design's second project, the tribute page.
+
+## Credits
+
+Noir Vesper's [talent profile](https://holostars.hololivepro.com/en/talent/noir-vesper/) from Cover.
+
+Noir Vesper's [wiki](https://virtualyoutuber.fandom.com/wiki/Noir_Vesper).
+
+### Videos
+
+1. [Project Zomboid: Quick I need these pantsu for a bit](https://www.youtube.com/watch?v=9mkObr7BEPI)
+
+2. [Did I lose my v-card?!](https://www.youtube.com/watch?v=SSjILIr8L10)
+
+3. [【 MONETIZATION 】2,000,000 Scoville hot sauce? I can take it, too easy.](https://www.youtube.com/watch?v=3IMjMAJFPgY)
+
+4. [【 Off Collab 】I force Dez to eat mind-breaking hot sauces ‪@MagniDezmond‬](https://www.youtube.com/watch?v=fnX4ZTnKXVc)
+
+5.
+
+## Instructions
+
 **Objective**: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks. **Do not copy this demo project**.
 
-## User Stories
+### User Stories
 
 -   Your tribute page should have a `main` element with a corresponding `id` of `main`, which contains all other elements
 
